@@ -1,0 +1,23 @@
+.image,
+.audio,
+.video,
+.buttons,
+.slider {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+button {
+  margin: 0px 20px;
+}
+
+img {
+  height: 60%;
+  width: 60%;
+}
+
+video {
+  height: 40%;
+  width: 40%;
+}
